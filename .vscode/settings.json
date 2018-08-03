@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ff0bb346-7e4f-4ebb-9e80-2a895db0f6b6/resourceGroups/ang-node-fullstack/providers/Microsoft.Web/sites/ang-node-fullstack",
+    "appService.deploySubpath": ""
+}
